@@ -21,3 +21,4 @@ const ColorModeSwitcher = ({ darkMode, setDarkMode }) => {
 }
 
 export default ColorModeSwitcher
+
